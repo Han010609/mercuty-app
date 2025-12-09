@@ -37,7 +37,7 @@ npm install
 
 ```env
 VITE_API_BASE_URL=https://api-frontend-interview-server.metcfire.com.tw/
-VITE_INTERVIEWER_NAME=YourEnglishName
+VITE_INTERVIEWER_NAME=pk
 ```
 
 **注意：** Base URL 結尾需包含斜線 `/`
